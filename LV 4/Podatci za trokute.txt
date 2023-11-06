@@ -1,0 +1,16 @@
+m	4
+n	4
+
+Točka 	X	Y
+	0	0	0
+	1	1	1
+	2	0	2
+	3	1	1
+	
+Trokut	Točka 1		Točka 2 	Točka 3
+	0	0			1			2
+	1	0			1			3
+	2	0			2			3
+	3	1			2			3
+	
+Rezultat treba biti oko 4 za trokut 0.
